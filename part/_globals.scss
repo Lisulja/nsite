@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+body{
+    font:{
+        family:$garamond;
+        size:16px;
+        style:regular;
+    }
+    line-height: 1.5em;
+    color:$color_dark_blue
+}

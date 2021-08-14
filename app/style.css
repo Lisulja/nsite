@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;1,500&family=Oswald&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box; }
+
+body {
+  font-family: "EB Garamond", serif;
+  font-size: 16px;
+  font-style: regular;
+  line-height: 1.5em;
+  color: #253458; }
+
+.header {
+  background-color: #253458; }
+  .header .container .row {
+    padding: 30px 0px; }
+    .header .container .row .slogan {
+      color: #fff; }
+
+.contact {
+  background-image: url("image/form-img.jfif");
+  background-position: top center;
+  background-repeat: no-repeat; }
+
+/*# sourceMappingURL=style.css.map */
